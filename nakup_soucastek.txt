@@ -1,5 +1,5 @@
 5x AC relé:
-https://cz.mouser.com/datasheet/2/307/Omron_01_30_2024_G6DN_CF_Datasheet_EN-3392553.pdf
+https://cz.mouser.com/datasheet/2/307/K018_E1-3446681.pdf
 5x 4-kanalový BJT:
 https://dratek.cz/arduino/1756-izolacni-modul-s-optocleny-4-kanalovy-pc817.html?_gl=1*6p05hb*_up*MQ..&gclid=Cj0KCQjwurS3BhCGARIsADdUH53I3WLqLYw0tw0l0Iu77JQ7_uxzefFfN8hT-P_si1CcgLeOeVwI2pgaAkdPEALw_wcB
 2x Snubber
