@@ -4,6 +4,6 @@ https://cz.mouser.com/datasheet/2/307/Omron_01_30_2024_G6DN_CF_Datasheet_EN-3392
 https://dratek.cz/arduino/1756-izolacni-modul-s-optocleny-4-kanalovy-pc817.html?_gl=1*6p05hb*_up*MQ..&gclid=Cj0KCQjwurS3BhCGARIsADdUH53I3WLqLYw0tw0l0Iu77JQ7_uxzefFfN8hT-P_si1CcgLeOeVwI2pgaAkdPEALw_wcB
 2x Snubber
 https://dratek.cz/arduino/1648-rc-snubber-pro-spinani-indukcni-zateze.html?_gl=1*t9giyl*_up*MQ..&gclid=Cj0KCQjwurS3BhCGARIsADdUH53I3WLqLYw0tw0l0Iu77JQ7_uxzefFfN8hT-P_si1CcgLeOeVwI2pgaAkdPEALw_wcB
-4x DC stykače 12VDC/A
+4x DC stykače 12VDC/32A
 https://www.elfetex.cz/10-033-325-rele-z-lar32-s-15-32a?gad_source=1&gclid=Cj0KCQjwurS3BhCGARIsADdUH52kqHMuqzXp8MYUj7oLzVCvHNHBaywuas7Xok-TZzg82x7SvT72aeoaAtJ5EALw_wcB
 
