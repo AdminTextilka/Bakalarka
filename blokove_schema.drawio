@@ -455,7 +455,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mD_urczAhtKW738J0m4f-16" value="AC Zdroj 230V/6,5A&lt;br&gt;PS 30 SWII&lt;br&gt;DC 12V&lt;span style=&quot;background-color: initial;&quot;&gt;/30A&lt;/span&gt;&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;opacity=50;" vertex="1" parent="mD_urczAhtKW738J0m4f-52">
-          <mxGeometry x="507.5" y="357" width="125" height="70" as="geometry" />
+          <mxGeometry x="507.5" y="176" width="125" height="70" as="geometry" />
         </mxCell>
         <mxCell id="mD_urczAhtKW738J0m4f-17" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.006;exitY=0.513;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="mD_urczAhtKW738J0m4f-52" source="mD_urczAhtKW738J0m4f-16" target="mD_urczAhtKW738J0m4f-19">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -506,9 +506,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mD_urczAhtKW738J0m4f-33" value="AC Zdroj 230V/6,5A&lt;br&gt;PSU-1250A&lt;br&gt;DC 12V&lt;span style=&quot;background-color: initial;&quot;&gt;/50A&lt;/span&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;opacity=50;" vertex="1" parent="mD_urczAhtKW738J0m4f-52">
-          <mxGeometry x="339" y="357" width="125" height="70" as="geometry" />
+          <mxGeometry x="503" y="290" width="125" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="mD_urczAhtKW738J0m4f-34" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.409;exitY=0.003;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="mD_urczAhtKW738J0m4f-52" source="mD_urczAhtKW738J0m4f-33" target="mD_urczAhtKW738J0m4f-36">
+        <mxCell id="mD_urczAhtKW738J0m4f-34" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.409;exitY=0.003;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="mD_urczAhtKW738J0m4f-52" source="mD_urczAhtKW738J0m4f-33" target="mD_urczAhtKW738J0m4f-36">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="314" y="388" as="sourcePoint" />
             <mxPoint x="385" y="353" as="targetPoint" />
@@ -555,6 +555,14 @@
         </mxCell>
         <mxCell id="mD_urczAhtKW738J0m4f-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="mD_urczAhtKW738J0m4f-52" source="mD_urczAhtKW738J0m4f-25" target="mD_urczAhtKW738J0m4f-42">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mD_urczAhtKW738J0m4f-53" value="AC Zdroj 230V/6,5A&lt;br&gt;PS 30 SWII&lt;br&gt;DC 12V&lt;span style=&quot;background-color: initial;&quot;&gt;/30A&lt;/span&gt;&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;opacity=50;" vertex="1" parent="mD_urczAhtKW738J0m4f-52">
+          <mxGeometry x="507.5" y="84" width="125" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="mD_urczAhtKW738J0m4f-54" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=-0.011;exitY=0.43;exitDx=0;exitDy=0;endArrow=classic;endFill=1;exitPerimeter=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="mD_urczAhtKW738J0m4f-52" source="mD_urczAhtKW738J0m4f-53" target="PkqFtLTbCZEIP-2vwFzs-451">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="439" y="104" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
