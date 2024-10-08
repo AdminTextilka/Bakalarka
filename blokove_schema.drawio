@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="Page-1" id="7e0a89b8-554c-2b80-1dc8-d5c74ca68de4">
-    <mxGraphModel dx="1354" dy="720" grid="0" gridSize="5" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="568" dy="302" grid="0" gridSize="5" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -207,7 +207,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mD_urczAhtKW738J0m4f-52" value="" style="group;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="433" y="359" width="632.5" height="427" as="geometry" />
+          <mxGeometry x="433" y="359" width="660" height="427" as="geometry" />
         </mxCell>
         <mxCell id="PkqFtLTbCZEIP-2vwFzs-450" value="" style="group;" parent="mD_urczAhtKW738J0m4f-52" vertex="1" connectable="0">
           <mxGeometry x="349" width="80" height="80" as="geometry" />
@@ -354,6 +354,14 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="439" y="104" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="mD_urczAhtKW738J0m4f-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="mD_urczAhtKW738J0m4f-52" source="mD_urczAhtKW738J0m4f-93">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="204.5" y="297.25" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mD_urczAhtKW738J0m4f-93" value="PEM-02/012&lt;br&gt;ZAMEL&lt;br&gt;Rele 12 VDC / 230AC" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="mD_urczAhtKW738J0m4f-52">
+          <mxGeometry x="140.5" y="325" width="129" height="84" as="geometry" />
         </mxCell>
         <mxCell id="mD_urczAhtKW738J0m4f-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="PkqFtLTbCZEIP-2vwFzs-451" target="PkqFtLTbCZEIP-2vwFzs-467">
           <mxGeometry relative="1" as="geometry">
