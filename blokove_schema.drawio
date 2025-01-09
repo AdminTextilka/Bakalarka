@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="eYA7auOUDv6fICd8K555-251" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="522" y="256" width="575" height="329" as="geometry" />
+        </mxCell>
         <mxCell id="zCNBRzlEJY0I-tMyIhnu-88" value="~230V" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="609" y="130" width="55" height="30" as="geometry" />
         </mxCell>
@@ -681,6 +684,11 @@
             <Array as="points">
               <mxPoint x="1301" y="417" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eYA7auOUDv6fICd8K555-218" value="MCU" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="eYA7auOUDv6fICd8K555-216">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1719.8461538461538" y="693.8461538461538" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="eYA7auOUDv6fICd8K555-216" value="&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;ISO1541" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
