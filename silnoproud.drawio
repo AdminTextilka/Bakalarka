@@ -62,7 +62,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LKb27FOyA3Ze82E5zqdl-19" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: Arial, Helvetica, sans-serif; font-size: 13px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;709-MPQ200B&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="170" width="90" height="60" as="geometry" />
+          <mxGeometry x="75" y="240" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LKb27FOyA3Ze82E5zqdl-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;startFill=1;endFill=1;startArrow=oval;" edge="1" parent="1" target="LKb27FOyA3Ze82E5zqdl-15">
           <mxGeometry relative="1" as="geometry">
@@ -80,7 +80,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LKb27FOyA3Ze82E5zqdl-22" value="ALQ112&lt;br&gt;12V/230V AC 10A" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="170" width="120" height="60" as="geometry" />
+          <mxGeometry x="280" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LKb27FOyA3Ze82E5zqdl-23" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="360" y="60" width="80" height="80" as="geometry" />
